@@ -5,7 +5,7 @@
 
 This second application considers two players games with a maximum of three strategies for each player. It allows to :
 
-* Find all the pure and mixed strategy Nash equilibrium.
+* Find all the pure and mixed strategy Nash equilibriums.
 * Calculate the value in a zero-sum Game.
 
 
