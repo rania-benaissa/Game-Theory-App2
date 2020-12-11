@@ -1,12 +1,12 @@
 # Game Theory App2
- An application that determines some game theory's notions in mixed strategies games and zero-sum games
+ An application that determines some game theory's notions in mixed strategies games and **zero-sum** games
 
 # Description
 
 This second application considers two players games with a maximum of three strategies for each player. It allows to :
 
 * Find all the pure and mixed strategy Nash equilibriums.
-* Calculate the value in a zero-sum Game.
+* Calculate the value in a **zero-sum** Game.
 
 
 # Technologies
@@ -27,7 +27,7 @@ To lunch the application, run _**Application.py**_ file:
 
 1. The user can change the strategies number for each player (maximum three strategies), which will update the payoffs matrix (add / remove rows or columns).
 
-2. If the user checks the **_Zero-Sum Game_** box, this will adapt the payoffs matrix to a zero-sum game.
+2. If the user checks the **_Zero-Sum Game_ box**, this will adapt the payoffs matrix to a **zero-sum** game.
 
 3. The user must fill the payoffs matrix (He can also change the strategies names if desired).
 
