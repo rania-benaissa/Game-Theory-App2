@@ -41,12 +41,12 @@ To lunch the application, run _**Application.py**_ file:
 
 # Exemple
 
-Let's consider the case of a non-zero sum game, where both players have three strategies. To which we match the payoffs table and corresponding results.
+Let's consider the case of a non zero-sum game, where both players have three strategies, to which we match the payoffs table and results below.
 
 ![interface](/README_images/table.jpg)
 
 
-Now let's move on to the case of a zero sum game, where both players have three strategies.
+Now let's move on to the case of a zero-sum game, where both players have three strategies.
 
 ![interface2](/README_images/table2.jpg)
 
